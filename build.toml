@@ -337,8 +337,8 @@ x11_symlinks = ['pirate', 'x-cursor']
 
 [cursors.xterm]
 png = 'xterm.png'
-x_hotspot = 100
-y_hotspot = 89
+x_hotspot = 51
+y_hotspot = 24
 x11_name = 'xterm'
 win_name = 'IBeam'
 x11_symlinks = ['ibeam', 'text']
